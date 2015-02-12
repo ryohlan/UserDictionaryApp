@@ -24,7 +24,8 @@ public class MainActivity extends ActionBarActivity
     private View.OnClickListener mAddBtnListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-
+            NewWordDialog newWordDialog = new NewWordDialog();
+            newWordDialog.show(getSupportFragmentManager(), "");
         }
     };
     private SimpleCursorAdapter mSimpleCursorAdapter;

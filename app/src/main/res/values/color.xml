@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="font_main">#555</color>
-    <color name="font_hint">#999</color>
+    <color name="font_label">#777</color>
+    <color name="font_hint">#BBB</color>
 </resources>
