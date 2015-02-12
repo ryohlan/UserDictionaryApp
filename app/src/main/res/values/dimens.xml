@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="margin_base">8dp</dimen>
+    <dimen name="margin_base_double">16dp</dimen>
+    <dimen name="margin_base_half">4dp</dimen>
+    <dimen name="font_medium">@dimen/abc_text_size_medium_material</dimen>
+    <dimen name="font_large">@dimen/abc_text_size_large_material</dimen>
+    <dimen name="font_small">@dimen/abc_text_size_small_material</dimen>
+    <dimen name="font_micro">@dimen/abc_text_size_caption_material</dimen>
+</resources>
